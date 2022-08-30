@@ -12,3 +12,8 @@
 1. CI/CD with GitHub actions & Azure DevOps
 2. Terraform script for Azure Cloud
 3. Sample Python app deployment
+
+
+### Author - [Nikhil Akki](https://nikhilakki.in)
+
+**License - MIT**
